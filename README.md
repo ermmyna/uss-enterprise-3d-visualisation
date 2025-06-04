@@ -76,7 +76,6 @@ python step7_advanced_coloring.py
 
 - USS Enterprise model (grayscale `.obj`)
 - Libraries: PyOpenGL, GLFW, NumPy, Pillow
-- Assistance: Portions of code and grammar were supported using OpenAI’s ChatGPT
 
 ---
 
