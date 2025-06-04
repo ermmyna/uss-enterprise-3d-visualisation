@@ -39,7 +39,6 @@ uss-enterprise-3d-visualisation/
 ├── graphics_utils.py
 ├── coloring_utils.py
 ├── USS_enterprise_grayscale.obj
-└── Major Project Report.docx
 ```
 
 ---
