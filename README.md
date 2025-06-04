@@ -80,6 +80,6 @@ python step7_advanced_coloring.py
 
 ## Author
 
-**Ermmyna Roselee Shah**  
+**Ermmyna Roselee**  
 Bachelor of Computer Science  
 University of Queensland – Semester 1, 2025
