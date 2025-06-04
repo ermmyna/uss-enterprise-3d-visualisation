@@ -26,7 +26,7 @@ Developed for the COSC3000 Visualisation, Computer Graphics & Data Analysis cour
 ## File Structure
 
 ```
-MajorProject/
+uss-enterprise-3d-visualisation/
 ├── step1_display_object.py
 ├── step2_camera_controls.py
 ├── step3_phong_lighting.py
