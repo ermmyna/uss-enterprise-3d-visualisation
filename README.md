@@ -38,7 +38,7 @@ uss-enterprise-3d-visualisation/
 ├── main.py
 ├── graphics_utils.py
 ├── coloring_utils.py
-├── USS_enterprise_grayscale.obj
+└── USS_enterprise_grayscale.obj
 ```
 
 ---
